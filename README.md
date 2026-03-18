@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### 🛠 Languages and Tools:
 
-<img src="https://skillicons.dev/icons?html,css,bootstrap,js,react,nodejs,express,python,dotnet,mssql,mysql,xampp,git,github,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,python,dotnet,mssql,mysql,xampp,git,github,vscode,visualstudio" />
