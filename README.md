@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🛠 Languages and Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,python,dotnet,mysql,git,github,vscode,visualstudio" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,python,dotnet,mssql,mysql,xampp,git,github,vscode,visualstudio" />
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+</p>
