@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🛠 Languages and Tools:
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs, expressjs, python,dotnet, git, github,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,python,dotnet,git,github,vscode,visualstudio" />
